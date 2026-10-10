@@ -3,8 +3,6 @@ import statistics
 
 class StatAnalyzer:
     def __init__(self, data: list):
-
-
         self.__data = list(data)
 
     # Getter untuk mengambil nilai data
